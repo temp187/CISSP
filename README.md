@@ -21,32 +21,16 @@
 - [Boson - CISSP](https://www.boson.com/practice-exam/cissp-isc2-practice-exam)
 - [WannaPractice - CISSP](https://www.wannapractice.com/)
 
-**Paid Courses**
-- [Beinfosec - CISSP](https://beinfosec.com/training/)
-- [Cybrary IT](https://www.cybrary.it/course/cissp)
-- [CCCure CISSP (Latest CBK - 2021)](https://cccure.education/certification/certificate-detail/cissp-latest-cbk-2021)
-- [Destination Certification](https://destcert.com/cissp/)
-- [Mike Chapple - LinkedIn CISSP Course](https://www.linkedin.com/learning/paths/prepare-for-the-isc2-information-systems-security-professional-cissp-certification-exam-2021)
-- [Technical Institute of America](https://www.tiaedu.com/training_cissp_course_ny.html)
-- [Thor Teaches](https://thorteaches.com/cissp/)
-
 **No Cost Training**
 - [FRSecure CISSP Mentor Program](https://frsecure.com/cissp-mentor-program/)
 
 **CISSP Communities**
-- [Discord Cert Station](https://discord.gg/YzyBNNSHDZ)
 - [CISSP Subreddit](https://www.reddit.com/r/cissp)
 
 **Summarized Information**
 - [Sunflower CISSP Layout](https://www.sunflower-cissp.com/downloads/sunflower_cissp_layout.pdf).
 - [Comparitech Cheat Sheet](/files/Comparitech%20CISSP%20Cheat%20Sheet.pdf)
  
-**Other CISSP Github Repositories**
-- [so87 - CISSP Study Guide](https://simonowens157.gitlab.io/cissp/)
-- [Jan Petzold - CISSP Study Guide](https://github.com/janpetzold/cissp-summary)
-- [CISSP Mindmaps](https://github.com/yyds-page/cissp-mind-map)
-- [Awesome CISSP Guide](https://github.com/connectans/awesome-CISSP-CCSP)
-
 **Books**
 - [Official Study Guide](https://www.amazon.ca/Certified-Information-Security-Professional-Official/dp/1119475937)
 - [Destination Certification - Concise Guide](https://www.amazon.ca/Destination-CISSP-Concise-Rob-Witcher/dp/B0BT1Y6DYL)
