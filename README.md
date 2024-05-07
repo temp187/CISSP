@@ -35,3 +35,6 @@
 - [Official Study Guide](https://www.amazon.ca/Certified-Information-Security-Professional-Official/dp/1119475937)
 - [Destination Certification - Concise Guide](https://www.amazon.ca/Destination-CISSP-Concise-Rob-Witcher/dp/B0BT1Y6DYL)
 - [Luke Ahmed - How to Think Like a Manager](https://www.amazon.ca/Think-Like-Manager-CISSP-Exam-ebook/dp/B08D9L1BTF/)
+
+**CPE Credits**
+- [CPE Cheat Sheets](https://docs.google.com/presentation/d/1hSAa4FrgbW2uAsZe2ksMhAaxRmHkNq9-5f2olvj5yvA/edit?pli=1#slide=id.g1fd5ab00b31_0_82)
